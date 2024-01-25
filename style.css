@@ -1,0 +1,70 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+  .img1{
+    background-image: url(image1.png);
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  .img2 {
+    background-image: url(image2.png);
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+  }
+  .img3 {
+    background-image: url(image3.png);
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+.p1{
+  position: relative;
+  top:50%;
+  width: 100%;
+  text-align: center;
+  height: 10px;
+
+
+}
+  .bg1{
+    border-radius: 15px;
+      background-color: #424242;
+      font-size: 27px;
+      letter-spacing: 5px;
+    padding:10px;
+    color: white;
+    text-transform: uppercase;
+
+  }
+  .sec{
+    padding: 50px 80px;
+    text-align: center;
+    color: white;
+  }
+  .secl{
+    background-color: #303030;
+
+  }
+  section h1{
+    text-align: center;
+    color: white;
+  }
+
+
